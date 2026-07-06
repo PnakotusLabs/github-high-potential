@@ -1,5 +1,5 @@
 ---
-name: ai-halfday-report
+name: github-high-potential
 description: "Generate an AI high-potential GitHub project half-day report from this project’s local scripts and publish Top items for the last 12 hours. Use for requests like: 半日报, 高潜力, AI高潜项目, github-high-potential, halfday."
 license: Proprietary. LICENSE.txt has complete terms
 ---
@@ -21,7 +21,7 @@ This skill is for quick daily intelligence on high-potential GitHub projects.
 ### 1) Run
 
 ```bash
-cd /path/to/repo
+cd /path/to/github-high-potential
 ./scripts/run_halfday.sh
 ```
 
